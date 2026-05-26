@@ -2,7 +2,7 @@
 
 Before writing any code, run the diagnostic skill:
 
-- Location: `skills/diagnose-agentsmd.md`
+- Location: `skills/diagnose-agents.md`
 - Read the file and follow its instructions exactly
 
 Then ask the user:
